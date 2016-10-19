@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\C# Programming\Professor_abrouw01\Professor_abrouw01\bin\Debug\Professor_abrouw01.exe.config
+C:\Users\Alex\Desktop\C# Programming\Professor_abrouw01\Professor_abrouw01\bin\Debug\Professor_abrouw01.exe
+C:\Users\Alex\Desktop\C# Programming\Professor_abrouw01\Professor_abrouw01\bin\Debug\Professor_abrouw01.pdb
+C:\Users\Alex\Desktop\C# Programming\Professor_abrouw01\Professor_abrouw01\obj\Debug\Professor_abrouw01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\C# Programming\Professor_abrouw01\Professor_abrouw01\obj\Debug\Professor_abrouw01.exe
+C:\Users\Alex\Desktop\C# Programming\Professor_abrouw01\Professor_abrouw01\obj\Debug\Professor_abrouw01.pdb
